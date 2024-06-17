@@ -3,6 +3,6 @@ An android notes app that uses dynamic fragments and SQLite DB, for a school ass
 ## Getting Started
 ### Clone the Repository
   ```bash
-  git clone https://github.com/Mitchi-02/android-fragments-notes.git
+  git clone https://github.com/Mitchi-02/android-notes-fragments-sqlite.git
   ```
 ### Open the app in Android Studio
